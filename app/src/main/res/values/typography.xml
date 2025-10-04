@@ -1,0 +1,73 @@
+<resources>
+    <!-- Material3 typography overrides to use Aclonica globally -->
+    <!-- Display -->
+    <style name="TextAppearance.DailyHabbitTracker.DisplayLarge" parent="TextAppearance.Material3.DisplayLarge">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.DisplayMedium" parent="TextAppearance.Material3.DisplayMedium">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.DisplaySmall" parent="TextAppearance.Material3.DisplaySmall">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+
+    <!-- Headline -->
+    <style name="TextAppearance.DailyHabbitTracker.HeadlineLarge" parent="TextAppearance.Material3.HeadlineLarge">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.HeadlineMedium" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.HeadlineSmall" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+
+    <!-- Title -->
+    <style name="TextAppearance.DailyHabbitTracker.TitleLarge" parent="TextAppearance.Material3.TitleLarge">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.TitleMedium" parent="TextAppearance.Material3.TitleMedium">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.TitleSmall" parent="TextAppearance.Material3.TitleSmall">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+
+    <!-- Body -->
+    <style name="TextAppearance.DailyHabbitTracker.BodyLarge" parent="TextAppearance.Material3.BodyLarge">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.BodyMedium" parent="TextAppearance.Material3.BodyMedium">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.BodySmall" parent="TextAppearance.Material3.BodySmall">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+
+    <!-- Label -->
+    <style name="TextAppearance.DailyHabbitTracker.LabelLarge" parent="TextAppearance.Material3.LabelLarge">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.LabelMedium" parent="TextAppearance.Material3.LabelMedium">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+    <style name="TextAppearance.DailyHabbitTracker.LabelSmall" parent="TextAppearance.Material3.LabelSmall">
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+    </style>
+</resources>
+

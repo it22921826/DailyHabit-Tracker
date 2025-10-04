@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboardFragment"
+        android:title="@string/title_dashboard"
+        android:icon="@android:drawable/ic_menu_today"/>
+    <item android:id="@+id/habitListFragment"
+        android:title="@string/title_habits"
+        android:icon="@android:drawable/ic_menu_agenda"/>
+    <item android:id="@+id/moodFragment"
+        android:title="@string/title_mood"
+        android:icon="@android:drawable/ic_menu_edit"/>
+    <item android:id="@+id/hydrationFragment"
+        android:title="@string/title_hydration"
+        android:icon="@android:drawable/ic_menu_compass"/>
+    <item android:id="@+id/settingsFragment"
+        android:title="@string/title_settings"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.dailyhabbittracker.tracker.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard" />
+    <fragment
+        android:id="@+id/habitListFragment"
+        android:name="com.dailyhabbittracker.tracker.ui.habit.HabitListFragment"
+        android:label="@string/title_habits" />
+    <fragment
+        android:id="@+id/moodFragment"
+        android:name="com.dailyhabbittracker.tracker.ui.mood.MoodFragment"
+        android:label="@string/title_mood" />
+    <fragment
+        android:id="@+id/hydrationFragment"
+        android:name="com.dailyhabbittracker.tracker.ui.hydration.HydrationFragment"
+        android:label="@string/title_hydration" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.dailyhabbittracker.tracker.ui.settings.SettingsFragment"
+        android:label="@string/title_settings" />
+    <fragment
+        android:id="@+id/moodTrendFragment"
+        android:name="com.dailyhabbittracker.tracker.ui.mood.MoodTrendFragment"
+        android:label="@string/title_chart" />
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.dailyhabbittracker.tracker.ui.settings.AboutFragment"
+        android:label="@string/title_about" />
+</navigation>

@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DailyHabbitTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Global default font for all views -->
+        <item name="fontFamily">@font/aclonica</item>
+        <item name="android:fontFamily">@font/aclonica</item>
+        <!-- Typography overrides to use Aclonica globally -->
+        <item name="textAppearanceDisplayLarge">@style/TextAppearance.DailyHabbitTracker.DisplayLarge</item>
+        <item name="textAppearanceDisplayMedium">@style/TextAppearance.DailyHabbitTracker.DisplayMedium</item>
+        <item name="textAppearanceDisplaySmall">@style/TextAppearance.DailyHabbitTracker.DisplaySmall</item>
+
+        <item name="textAppearanceHeadlineLarge">@style/TextAppearance.DailyHabbitTracker.HeadlineLarge</item>
+        <item name="textAppearanceHeadlineMedium">@style/TextAppearance.DailyHabbitTracker.HeadlineMedium</item>
+        <item name="textAppearanceHeadlineSmall">@style/TextAppearance.DailyHabbitTracker.HeadlineSmall</item>
+
+        <item name="textAppearanceTitleLarge">@style/TextAppearance.DailyHabbitTracker.TitleLarge</item>
+        <item name="textAppearanceTitleMedium">@style/TextAppearance.DailyHabbitTracker.TitleMedium</item>
+        <item name="textAppearanceTitleSmall">@style/TextAppearance.DailyHabbitTracker.TitleSmall</item>
+
+        <item name="textAppearanceBodyLarge">@style/TextAppearance.DailyHabbitTracker.BodyLarge</item>
+        <item name="textAppearanceBodyMedium">@style/TextAppearance.DailyHabbitTracker.BodyMedium</item>
+        <item name="textAppearanceBodySmall">@style/TextAppearance.DailyHabbitTracker.BodySmall</item>
+
+        <item name="textAppearanceLabelLarge">@style/TextAppearance.DailyHabbitTracker.LabelLarge</item>
+        <item name="textAppearanceLabelMedium">@style/TextAppearance.DailyHabbitTracker.LabelMedium</item>
+        <item name="textAppearanceLabelSmall">@style/TextAppearance.DailyHabbitTracker.LabelSmall</item>
+    </style>
+
+    <style name="Theme.DailyHabbitTracker" parent="Base.Theme.DailyHabbitTracker" />
+</resources>
